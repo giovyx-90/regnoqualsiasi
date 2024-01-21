@@ -4,7 +4,7 @@ La Costituzione è un documento fondamentale che definisce i principi di uno sta
 
 Data ultimo aggiornamento: 21.01.24 alle ore 21:38
 Firmato, Il direttore (Giovyx90)
-## CAPITOLO 1: DEL REGNO E IL SUO NOME
+## CAPITOLO I: DEL REGNO E IL SUO NOME
 
 Articolo 0: Il direttore si riserva il diritto di modificare questo documento a suo piacimento
 Articolo 1: Il presente testo costituisce la legge fondamentale del Regno Qualsiasi,
