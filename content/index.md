@@ -14,3 +14,5 @@ Il server simula uno Stato, in un roleplay testuale.
 I giocatori (cittadini) devono scrivere in chat per aumentare di livello, per ottenere permessi sempre più potenti all'interno dello Stato.
 
 L'obbiettivo è vedere se tale modo di condurre un server può funzionare a lungo termine.
+
+### [[Costituzione]] del server
