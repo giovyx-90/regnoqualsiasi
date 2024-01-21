@@ -10,9 +10,6 @@ Il regno qualsiasi è un esperimento sociale condotto da [Giovyx90](https://giov
 
 ### In cosa consiste l'esperimento sociale?
 
-Il server simula uno Stato, in un roleplay testuale.
-I giocatori (cittadini) devono scrivere in chat per aumentare di livello, per ottenere permessi sempre più potenti all'interno dello Stato.
+Il regno è un esperimento sociale iniziato il 1^ Gennaio 2024 su Discord, l’idea è nata e si è evoluta grazie a Giovyx90.
 
-L'obbiettivo è vedere se tale modo di condurre un server può funzionare a lungo termine.
-
-### [[Costituzione]] del server
+Il server simula uno Stato sotto forma di roleplay testuale. I giocatori (cittadini) devono scrivere in chat per aumentare di livello ottenendo così permesso sempre più potenti all’interno dello Regno.

@@ -1,6 +1,5 @@
 La Costituzione è un documento fondamentale che definisce i principi di uno stato, la struttura del governo e i diritti dei cittadini. Nel regno qualsiasi, la Costituzione del  21 gennaio 2024 è la legge suprema. Tutti, inclusi i governanti, devono rispettarla. Serve da base per leggi e regolamenti, garantendo che nessuno sia al di sopra della legge. La Costituzione assicura i diritti fondamentali e il corretto funzionamento delle istituzioni, contribuendo a mantenere uno stato di diritto e valori democratici.
 
-
 ---
 
 Data ultimo aggiornamento: 21.01.24 alle ore 21:38
